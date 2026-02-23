@@ -1,0 +1,46 @@
+{
+  "name": "react-native-kakao-postcode",
+  "version": "1.0.0",
+  "description": "React Native component for Kakao (Daum) Postcode address search service",
+  "main": "lib/index.js",
+  "types": "lib/index.d.ts",
+  "files": [
+    "lib/"
+  ],
+  "scripts": {
+    "build": "tsc",
+    "prepare": "tsc"
+  },
+  "keywords": [
+    "react-native",
+    "kakao",
+    "postcode",
+    "daum",
+    "address",
+    "zipcode",
+    "우편번호",
+    "주소검색"
+  ],
+  "author": "kikistudiox",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kikistudiox/react-native-kakao-postcode.git"
+  },
+  "bugs": {
+    "url": "https://github.com/kikistudiox/react-native-kakao-postcode/issues"
+  },
+  "homepage": "https://github.com/kikistudiox/react-native-kakao-postcode#readme",
+  "peerDependencies": {
+    "react": ">=16.8.0",
+    "react-native": ">=0.60.0",
+    "react-native-webview": ">=11.0.0"
+  },
+  "devDependencies": {
+    "typescript": "^5.0.0",
+    "@types/react": "^19.0.0",
+    "react": "^19.0.0",
+    "react-native": "^0.83.0",
+    "react-native-webview": "^13.0.0"
+  }
+}
