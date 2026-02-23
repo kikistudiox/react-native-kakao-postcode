@@ -10,7 +10,7 @@
 
 ## 특징
 
-- 카카오 우편번호 서비스 최신 SDK 사용
+- 새로운 카카오 도메인 및 `kakao.Postcode` API 적용 (`t1.kakaocdn.net`)
 - TypeScript 지원
 - 커스텀 테마 지원
 - 초기 검색어 설정 가능
