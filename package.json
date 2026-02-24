@@ -1,6 +1,6 @@
 {
   "name": "react-native-kakao-postcode",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "React Native component for Kakao (Daum) Postcode address search service",
   "main": "lib/index.js",
   "types": "lib/index.d.ts",
