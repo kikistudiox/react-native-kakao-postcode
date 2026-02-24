@@ -13,11 +13,10 @@
   },
   "keywords": [
     "react-native",
-    "kakao",
-    "postcode",
-    "daum",
-    "address",
-    "zipcode",
+    "kakao-postcode",
+    "daum-postcode",
+    "korean-address",
+    "address-search",
     "우편번호",
     "주소검색"
   ],
