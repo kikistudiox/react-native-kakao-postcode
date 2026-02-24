@@ -30,6 +30,10 @@
     "url": "https://github.com/kikistudiox/react-native-kakao-postcode/issues"
   },
   "homepage": "https://github.com/kikistudiox/react-native-kakao-postcode#readme",
+  "funding": {
+    "type": "github",
+    "url": "https://github.com/sponsors/kikistudiox"
+  },
   "peerDependencies": {
     "react": ">=16.8.0",
     "react-native": ">=0.60.0",
