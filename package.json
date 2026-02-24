@@ -41,5 +41,8 @@
     "react": "^19.0.0",
     "react-native": "^0.83.0",
     "react-native-webview": "^13.0.0"
+  },
+  "overrides": {
+    "fast-xml-parser": ">=5.3.5"
   }
 }
